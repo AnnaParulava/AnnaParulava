@@ -7,4 +7,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnaParulava&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnnaParulava&theme=nord_bright&utcOffset=8)
 
-Telegram: @AnnaParulava
+
